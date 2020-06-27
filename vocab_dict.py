@@ -1,1 +1,1 @@
-my_vocab = {'leg':'ashi','station':'eki','shell':'kai'}
+my_vocab = {'leg':'ashi','station':'eki','shell':'kai','salt': 'shio', 'cattle': 'ushi', 'umbrella': 'kushi', 'pond': 'ike', 'sweat': 'ase', 'here': 'koko', 'there': 'soko', 'over there': 'asoko', 'watermelon': 'suika', 'red': 'akai', 'meet': 'au', 'picture': 'e', 'blue': 'aoi', 'slope': 'saka', 'autumn': 'aki', 'square': 'shikaku', 'chair': 'isu', 'world': 'sekai', 'rule': 'kisoku', 'lie': 'uso'}
