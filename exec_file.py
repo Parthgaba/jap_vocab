@@ -17,7 +17,7 @@ while(1):
     if inp=='0':
         print('ans',my_vocab.get(choice))
     elif inp=='1':
-        print('OK, BYE')
+        print('OK', 'BYE')
         break
         
     
