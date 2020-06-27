@@ -12,10 +12,12 @@ inp = ''
 while(1):
     l = list(my_vocab.keys())
     choice = random.choice(l)
-    print(choice)
+    print(choice,'->')
     inp = input()
     if inp=='0':
-        print(my_vocab.get(choice))
+        print('ans',my_vocab.get(choice))
     elif inp=='1':
+        print('OK, BYE')
         break
+        
     
